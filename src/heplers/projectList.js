@@ -103,7 +103,7 @@ const projects = [
         img: project10,
         skills: 'HTML, CSS, Javascript, Typescript',
         gitHub:'https://github.com/KiroiiKitsune/Card-Game',
-        liveLink:"",
+        liveLink:"https://kiroiikitsune.github.io/Card-Game/",
     },
 ];
 
